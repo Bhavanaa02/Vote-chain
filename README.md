@@ -44,7 +44,7 @@ A brief explanation on the basic workflow of the application.
 1. Clone this repository
 
    ```shell
-   git clone https://github.com/Bhavxx/vote-chain-blockchain-based-electronic-voting-system.git
+   git clone https://github.com/Bhavanaa02/vote-chain-blockchain-based-electronic-voting-system.git
    cd vote-chain-blockchain-based-electronic-voting-system
    ```
 
